@@ -1,1 +1,2 @@
-# xvpn
+# group
+Join and enjoy
